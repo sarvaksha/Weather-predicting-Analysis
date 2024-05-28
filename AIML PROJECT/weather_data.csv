@@ -1,0 +1,11 @@
+Temperature,Humidity,Pressure,Wind_Speed,Label
+25,60,1013,10,sunny
+20,70,1015,5,cloudy
+30,50,1010,15,sunny
+22,75,1012,8,rainy
+18,80,1016,3,cloudy
+28,55,1008,12,sunny
+24,65,1014,7,rainy
+21,72,1011,6,cloudy
+27,58,1010,11,sunny
+23,68,1015,9,rainy
